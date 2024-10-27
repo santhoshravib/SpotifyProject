@@ -1,4 +1,4 @@
-#Tracking Music Trends: Spotify Songs and Artists Over Time
+Tracking Music Trends: Spotify Songs and Artists Over Time
 
 This project focuses on identifying trends in song and artist popularity over time by analyzing streaming data from Spotify. The goal is to discover how music trends have evolved and to determine the most-streamed songs and artists by year and overall.
 
